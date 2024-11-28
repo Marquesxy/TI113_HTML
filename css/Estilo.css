@@ -1,0 +1,28 @@
+h1 {
+    color: red;
+    background-color: black;
+    font-size: 30px;
+}
+
+section {
+    border: 1px solid blue;
+    background-color: rgb(116, 255, 255);
+}
+
+h2 {
+    border: 2px dashed rebeccapurple;
+    background-color: greenyellow;
+    border-radius: 15px;
+}
+
+button {
+    width: 100px;
+    border-radius: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 5px;
+    padding-right: 5px;
+    border: 1px solid rgb(90, 164, 181);
+    background-color: blueviolet;
+    color: firebrick;
+}
